@@ -194,5 +194,3 @@ Threats are highlighted using color-coded indicators in the GUI to make detectio
 ## 👨‍💻 Author
 
 **Muhammad Aqiman Bin Mohd Fauzi**
-
-Course: **CSC662 – Computer Security**
